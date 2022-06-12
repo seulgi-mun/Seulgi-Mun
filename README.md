@@ -1,4 +1,4 @@
-### Hi there I'm seulgi Mun👋
+### Hi there! I'm seulgi Mun👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seulgi-Mun&fontSize=90)
 
 <!--
