@@ -1,6 +1,8 @@
 ### Hi there! I'm seulgi Mun👋
 welcome to my github 😆😆
-- 🌱 I’m currently learning React & Typescript
+🌱 I’m currently learning React & Typescript
+📫 How to reach me:
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seulgi-Mun&fontSize=90)
 
 <!--
