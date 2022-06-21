@@ -7,7 +7,7 @@ Welcome to my github 😆😆
 
 ## My tech stack
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
-![Vue](https://img.shields.io/badge/Vue-#4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-#4FC08D?style=for-the-badge&logo=Vue&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
 
