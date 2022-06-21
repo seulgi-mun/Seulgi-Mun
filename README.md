@@ -1,6 +1,12 @@
-### Hi there! I'm seulgi Mun👋
-welcome to my github 😆😆
+# Hi I'm seulgi Mun! 
+
+Welcome to my github 😆😆
+
+
 - 🌱 I’m currently learning React & Typescript
+
+My tech stack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seulgi-Mun&fontSize=90)
 
