@@ -2,7 +2,7 @@
 
 Welcome to my github 😆😆
 
-
+My major is advertising
 - 🌱 I’m currently learning React & Typescript
 
 ## My tech stack
