@@ -17,6 +17,7 @@ My major is advertising
 
 ![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulgi-mun&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seulgi-mun&layout=compact)](https://github.com/seulgi-mun/github-readme-stats)
 <!--
 **seulgi-mun/Seulgi-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
