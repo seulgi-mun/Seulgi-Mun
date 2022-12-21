@@ -13,6 +13,7 @@ My major is advertising
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3766AB?style=for-the-badge&logo=MySQL&logoColor=magenta)
 
 
 ![Seulgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulgi-mun&theme=radical)
