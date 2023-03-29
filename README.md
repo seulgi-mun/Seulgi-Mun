@@ -7,6 +7,7 @@ Welcome to my github 😆😆
 My major is advertising
 - 🌱 I’m currently learning React & Typescript
 - spring
+- Java
 
 ## My tech stack
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
