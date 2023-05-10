@@ -9,6 +9,7 @@ My major is advertising
 - spring
 - Java
 - javascript
+- SQL
 
 ## My tech stack
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=#61DAFB)
