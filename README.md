@@ -5,7 +5,7 @@ Welcome to my github 😆😆
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seulgi-Mun&fontSize=90)
 
 My major is advertising
-- 🌱 I’m currently learning React & Typescript
+- 🌱 I’m currently learning React
 - spring
 - Java
 - javascript
